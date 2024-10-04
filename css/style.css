@@ -2,6 +2,10 @@ html {
     font-size: 22px;
 }
 
+.welcome {
+    text-align: center;
+}
+
 body {
     min-height: 100vh;
     max-width: 800px;
